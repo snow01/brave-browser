@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brave/brave-browser.git"
+    "url": "git+https://github.com/snow01/brave-browser.git"
   },
   "license": "MPL-2.0",
   "author": {
